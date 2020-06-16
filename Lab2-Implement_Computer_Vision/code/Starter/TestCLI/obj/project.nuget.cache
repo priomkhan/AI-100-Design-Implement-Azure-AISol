@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M4TAAqRBN9+Rx6M5FgMtCaEEbOYgNQDwJpTEZ27DxAK6S65Ac0naQgo9HSAgnHzHjikSoV3oQey9rVcMcfbbSQ==",
+  "dgSpecHash": "5ncCGTvBHbHCKJuedTq0yprzWsc3SoVPfRC6we4mGEw/+6gBFhmKtenUuDKyCM+0DqcJqoTkoieNsCByZoSeqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\priom\\source\\repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\TestCLI\\TestCLI.csproj",
+  "projectFilePath": "C:\\Users\\priom\\Source\\Repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\TestCLI\\TestCLI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\priom\\.nuget\\packages\\microsoft.azure.cosmos\\3.3.0\\microsoft.azure.cosmos.3.3.0.nupkg.sha512",
     "C:\\Users\\priom\\.nuget\\packages\\microsoft.azure.keyvault.core\\2.0.4\\microsoft.azure.keyvault.core.2.0.4.nupkg.sha512",

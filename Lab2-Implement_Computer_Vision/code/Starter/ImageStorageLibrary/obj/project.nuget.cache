@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t2yxO21GxKgShFfNKRrC4xSAD9p6py2ZQcbvq2cpNSfV7oz4+vCOwU7wwlfAZhP6mZs6jrDCBhknHIRMnMjn6Q==",
+  "dgSpecHash": "4Jozz9FvOTfUWi70Vwe5/ZN6Z8iOSCBseGekdYxGz6lMiDmsYcT1jugCEhfj2FPQ9pgOTPnTUgC0xNA5/XpbvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\priom\\source\\repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\ImageStorageLibrary\\ImageStorageLibrary.csproj",
+  "projectFilePath": "C:\\Users\\priom\\Source\\Repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\ImageStorageLibrary\\ImageStorageLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\priom\\.nuget\\packages\\microsoft.azure.cosmos\\3.3.0\\microsoft.azure.cosmos.3.3.0.nupkg.sha512",
     "C:\\Users\\priom\\.nuget\\packages\\microsoft.azure.keyvault.core\\2.0.4\\microsoft.azure.keyvault.core.2.0.4.nupkg.sha512",

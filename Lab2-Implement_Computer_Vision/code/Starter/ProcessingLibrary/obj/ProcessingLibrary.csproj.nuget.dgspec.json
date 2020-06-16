@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\priom\\source\\repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\ProcessingLibrary\\ProcessingLibrary.csproj": {}
+    "C:\\Users\\priom\\Source\\Repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\ProcessingLibrary\\ProcessingLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\priom\\source\\repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\ProcessingLibrary\\ProcessingLibrary.csproj": {
+    "C:\\Users\\priom\\Source\\Repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\ProcessingLibrary\\ProcessingLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\priom\\source\\repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\ProcessingLibrary\\ProcessingLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\priom\\Source\\Repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\ProcessingLibrary\\ProcessingLibrary.csproj",
         "projectName": "ProcessingLibrary",
-        "projectPath": "C:\\Users\\priom\\source\\repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\ProcessingLibrary\\ProcessingLibrary.csproj",
+        "projectPath": "C:\\Users\\priom\\Source\\Repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\ProcessingLibrary\\ProcessingLibrary.csproj",
         "packagesPath": "C:\\Users\\priom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\priom\\source\\repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\ProcessingLibrary\\obj\\",
+        "outputPath": "C:\\Users\\priom\\Source\\Repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\ProcessingLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\priom\\AppData\\Roaming\\NuGet\\NuGet.Config",

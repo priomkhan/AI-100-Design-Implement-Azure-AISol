@@ -1,16 +1,3 @@
 ﻿{
-  "CognitiveServicesKeys": {
-    "Url": " https://eastus.api.cognitive.microsoft.com/vision/v1.0",
-    "Vision": "94d7bd925bfa4219bad0429943a18b8b"
-  },
-  "AzureStorage": {
-    "ConnectionString": "DefaultEndpointsProtocol=https;AccountName=ai100khan;AccountKey=qnk7s3t6mdnfhsT736VmUg+IRDhAvfibnc9ZjXpQ8uiBpIuzPs33ljM3kWJH35R3Q+pZVnna6uI/k0l1rcJfVg==;EndpointSuffix=core.windows.net",
-    "BlobContainer": "images"
-  },
-  "CosmosDB": {
-    "EndpointURI": "https://ai100khan.documents.azure.com:443/",
-    "Key": "qHvVpaZfemgRGC2zxeUEsKOqJt2mlS3aEApqbi0HbaQeBA39P4yTOrGuoHrRE9iJTJ1Hvykyv2qQ3mZCwQA1QA==",
-    "DatabaseName": "images",
-    "CollectionName": "metadata"
-  }
+
 }

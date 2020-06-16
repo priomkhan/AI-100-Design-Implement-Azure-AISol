@@ -1916,11 +1916,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\priom\\source\\repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\TestCLI\\TestCLI.csproj",
+      "projectUniqueName": "C:\\Users\\priom\\Source\\Repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\TestCLI\\TestCLI.csproj",
       "projectName": "TestCLI",
-      "projectPath": "C:\\Users\\priom\\source\\repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\TestCLI\\TestCLI.csproj",
+      "projectPath": "C:\\Users\\priom\\Source\\Repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\TestCLI\\TestCLI.csproj",
       "packagesPath": "C:\\Users\\priom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\priom\\source\\repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\TestCLI\\obj\\",
+      "outputPath": "C:\\Users\\priom\\Source\\Repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\TestCLI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\priom\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1936,11 +1936,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\priom\\source\\repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\ImageStorageLibrary\\ImageStorageLibrary.csproj": {
-              "projectPath": "C:\\Users\\priom\\source\\repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\ImageStorageLibrary\\ImageStorageLibrary.csproj"
+            "C:\\Users\\priom\\Source\\Repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\ImageStorageLibrary\\ImageStorageLibrary.csproj": {
+              "projectPath": "C:\\Users\\priom\\Source\\Repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\ImageStorageLibrary\\ImageStorageLibrary.csproj"
             },
-            "C:\\Users\\priom\\source\\repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\ProcessingLibrary\\ProcessingLibrary.csproj": {
-              "projectPath": "C:\\Users\\priom\\source\\repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\ProcessingLibrary\\ProcessingLibrary.csproj"
+            "C:\\Users\\priom\\Source\\Repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\ProcessingLibrary\\ProcessingLibrary.csproj": {
+              "projectPath": "C:\\Users\\priom\\Source\\Repos\\AI-100-Design-Implement-Azure-AISol\\Lab2-Implement_Computer_Vision\\code\\Starter\\ProcessingLibrary\\ProcessingLibrary.csproj"
             }
           }
         }
